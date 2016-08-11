@@ -296,7 +296,7 @@ void loop() {
     	//zowi.turnWithoutMoving(1000,1);
 
     	zowi.walk(1, 1000, 1);
-    	//delay(5000);
+    	delay(2000);
 
         break;
 
