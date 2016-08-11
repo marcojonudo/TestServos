@@ -287,7 +287,6 @@ void loop() {
       //-- MODE 1 - Dance Mode!
       //---------------------------------------------------------
       case 1:
-    	Serial.print('a');
 
         /*zowi.moveFeet(90,120);
     	zowi.moveHip(90,70);
